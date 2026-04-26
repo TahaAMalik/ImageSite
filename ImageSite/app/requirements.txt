@@ -5,5 +5,3 @@ aiosqlite
 fastapi-users[sqlalchemy]
 python-dotenv
 imagekitio
-streamlit
-python-multipart
